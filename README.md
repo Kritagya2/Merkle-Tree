@@ -1,4 +1,4 @@
-Kritagya Kothari- 20BCE0556
+Kritagya Kothari
 # Introduction to Merkle Tree
 Merkle Trees are a fundamental component of blockchains that supoort their functionality. They are used to encrypt blockchain data more efficiently and securely in bitcoin and other cryptocurrencies.
 
